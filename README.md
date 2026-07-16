@@ -1,3 +1,3 @@
 # project 2
-this project was created from local system
-created by Bhoomi Vishnani
+this project was created from local system.
+created by Bhoomi Vishnani.
